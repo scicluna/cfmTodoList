@@ -27,7 +27,7 @@
 
 <body>
 
-    <form action="hello.cfm" method="post">
+    <form action="temp.cfm" method="post">
         Enter temperature: <input type="text" name="temperature">
         <select name="conversionType">
             <option value="CtoF">Celsius to Fahrenheit</option>
